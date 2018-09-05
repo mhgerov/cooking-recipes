@@ -44,3 +44,5 @@ Pour the sauce into the inner liner of your Instant Pot.
 5. Add coconut milk and garam masala, put the chicken back in, and eat.
 
 6. Garnish with cilantro if you'd like.
+
+## Change Log
