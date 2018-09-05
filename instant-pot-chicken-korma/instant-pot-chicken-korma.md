@@ -1,10 +1,8 @@
-# INSTANT POT CHICKEN KORMA
+# INSTANT POT CHICKEN KORMA v1.0
 
 ![Recipe Photo](static/instant-pot-chicken-korma.jpg)
 
 [Original Recipe](https://twosleevers.com/chicken-korma-recipe/)
-
-**v1.0**
 
 ## Ingredients
 
