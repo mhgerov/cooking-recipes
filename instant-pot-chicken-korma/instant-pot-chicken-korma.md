@@ -2,8 +2,6 @@
 
 ![Recipe Photo](static/instant-pot-chicken-korma.jpg)
 
-[Original Recipe](https://twosleevers.com/chicken-korma-recipe/)
-
 ## Ingredients
 
 - [ ] 1 pound chicken thighs (adjust times for other cuts)
@@ -44,3 +42,7 @@ Pour the sauce into the inner liner of your Instant Pot.
 6. Garnish with cilantro if you'd like.
 
 ## Change Log
+
+**v1.0**
+
+* [Original Recipe](https://twosleevers.com/chicken-korma-recipe/)
