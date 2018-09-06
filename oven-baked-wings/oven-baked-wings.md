@@ -26,4 +26,4 @@
 
 **v0.1**
 
-- [Original Recipe](https://twosleevers.com/chicken-korma-recipe/)
+- [Original Recipe](https://thecookful.com/bake-chicken-wings-crispy/)
