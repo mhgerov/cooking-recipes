@@ -8,22 +8,22 @@
 Blend together
 - [ ] 1 ounce cashews (or sub with almonds if you prefer)
 - [ ] 1 onion, chopped
-- [ ] 1/2 cup tomatoes, diced
-- [ ] 1/2 green Serrano, Jalapeño, or Thai chile pepper
+- [ ] ½ cup tomatoes, diced
+- [ ] ½ green Serrano, Jalapeño, or Thai chile pepper
 - [ ] 5 cloves garlic
 - [ ] 1 teaspoon minced ginger minced
 - [ ] 1 teaspoon turmeric
 - [ ] 1 teaspoon salt
 - [ ] 1 teaspoon garam masala
-- [ ] 1/2 teaspoon ground Cumin
-- [ ] 1/2 teaspoon ground coriander
-- [ ] 1/2 teaspoon cayenne pepper (adjust to your preference)
-- [ ] 1/2 cup water ( I used this to slosh about int he blender jar and then poured it into the Instant Pot)
+- [ ] ½ teaspoon ground Cumin
+- [ ] ½ teaspoon ground coriander
+- [ ] ½ teaspoon cayenne pepper (adjust to your preference)
+- [ ] ½ cup water ( I used this to slosh about int he blender jar and then poured it into the Instant Pot)
 
 For Finishing
 
 - [ ] 1 teaspoon garam masala
-- [ ] 1/2 cup unsweetened coconut milk
+- [ ] ½ cup unsweetened coconut milk
 - [ ] 1/4 cup cilantro, chopped
 
 ## Instructions
