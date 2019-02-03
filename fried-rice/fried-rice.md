@@ -11,19 +11,24 @@
 - [ ] Soy Sauce
 - [ ] Oyster Sauce
 - [ ] Toasted Sesame Oil
+- [ ] Butter
 
 ## Instructions
 
-1. Preheat oven to 250F
+1. Scramble eggs. 
+1. Saute veggies and garlic
 
 
 ## Change Log
 
 **v0.1**
 
-- [Original Recipe](https://thecookful.com/bake-chicken-wings-crispy/)
+- [Original Recipe](https://www.gimmesomeoven.com/fried-rice-recipe/https://thecookful.com/bake-chicken-wings-crispy/)
 
 **v1.0.0**
 
 - Sesame seeds
+- Sausage
+Possible additions:
+- crushed ginger
 
