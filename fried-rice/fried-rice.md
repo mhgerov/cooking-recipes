@@ -28,7 +28,7 @@
 
 **v0.1**
 
-- [Original Recipe](https://www.gimmesomeoven.com/fried-rice-recipe/https://thecookful.com/bake-chicken-wings-crispy/)
+- [Original Recipe](https://www.gimmesomeoven.com/fried-rice-recipe/)
 
 **v1.0.0**
 
