@@ -8,7 +8,7 @@
 
 - [ ] 15 lbs raw pork belly
 - [ ] 3 tsp prague powder #1
-- [ ] ¾ cp kosher salt
+- [ ] 1.5 cp kosher salt
 - [ ] 6 tbsp brown sugar
 - [ ] 4 tbsp ground black pepper
 - [ ] 3 tbsp granulated garlic
@@ -23,19 +23,19 @@ Other
 
 1. Mix ingredients in a bowl until fully dissolved.
 
-2. Place meat and solution in bags and squeeze all air out.
+1. Place meat and solution in bags and squeeze all air out.
 
-3. Place bags in pan in a fridge for 7 days. Circulate cure liquid and flip bags once a day.
+1. Place bags in pan in a fridge for 7 days. Circulate cure liquid and flip bags once a day.
 
 ## Smoking
 
 1. Take slabs out of bags and rinse thoroughly.
 
-2. Smoke with wood chunks rather than chips at 200°F for 3-4 hours. Ensure meat's internal temperature reaches at least 150°F.
+1. Smoke with wood chunks rather than chips at 200°F for 3-4 hours. Ensure meat's internal temperature reaches at least 150°F.
 
-3. Refrigerate for several hours.
+1. Refrigerate for several hours.
 
-4. Slice against the grain
+1. Slice against the grain
 
 ## Change Log
 
