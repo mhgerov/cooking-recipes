@@ -1,4 +1,4 @@
-# FRIED RICE v1.0.0
+# FRIED RICE v1.1.0
 
 ![Recipe Photo](static/fried-rice.jpg)
 
@@ -6,27 +6,28 @@
 
 - [ ] 1 cp meat (chicken, sausage, etc.)
 - [ ] 3 tbsp, Butter
+- [ ] wok oil
 - [ ] 2 Eggs, whisked
-- [ ] Cooked, chilled rice
+- [ ] 4 cp rice, cooked & chilled
+- [ ] Salt and pepper
 - [ ] Veggie Mix
-  - [ ] 2 medium carrots, peeled and diced
   - [ ] 1 small white onion, diced
-  - [ ] 1/2 cp frozen peas
+  - [ ] 1 cp frozen veggie medley
 - [ ] 3 cloves garlic, minced
 - [ ] 3-4 tbsp Soy Sauce
 - [ ] 2 tsp, Oyster Sauce
 - [ ] 1/2 tsp Toasted Sesame Oil
-- [ ] Salt and pepper
 - [ ] 3 green onions, sliced
 - [ ] Sesame seeds
 
 ## Instructions
 
-1. Brown meat
-1. Scramble eggs. 
-1. Saute veggies and garlic until soft. Season w/ salt+pepper after adding to pan.
-1. Add butter, rice, meat, green onion, soy sauce, oyster sauce. Stir.
-1. Add eggs
+1. Brown meat. Set aside
+1. Scramble eggs with half the butter. Set aside
+1. Saute veggies and garlic until soft,  Season w/ salt+pepper after adding to pan.
+1. On high, add veggies. Season w/ Salt + Pepper. Sauté until soft, about 5 minutes.
+1. Add rest of butter. Then, rice, meat, green onion, soy sauce, then oyster sauce. Stir constantly until fried, about 3 minutes.
+1. Add eggs. Stir until heated.
 1. Remove from heat. Stir in sesame oil, sesame seeds.
 
 
@@ -43,3 +44,6 @@
 Possible additions:
 - crushed ginger
 
+**v1.1.0**
+- Clarification in wording.
+- Include wok oil in recipe.
