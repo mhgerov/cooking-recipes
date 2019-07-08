@@ -24,7 +24,6 @@
 
 1. Brown meat. Set aside
 1. Scramble eggs with half the butter. Set aside
-1. Saute veggies and garlic until soft,  Season w/ salt+pepper after adding to pan.
 1. On high, add veggies. Season w/ Salt + Pepper. Sauté until soft, about 5 minutes.
 1. Add rest of butter. Then, rice, meat, green onion, soy sauce, then oyster sauce. Stir constantly until fried, about 3 minutes.
 1. Add eggs. Stir until heated.
