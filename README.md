@@ -6,3 +6,4 @@ Collection of favorite cooking recipes
 * [Panang Thai Curry](panang-thai-curry/panang-thai-curry.md)
 * [Bacon](bacon/bacon.md)
 * [Fried Rice](fried-rice/fried-rice.md)
+* [Musubi](musubi/musubi.md)
