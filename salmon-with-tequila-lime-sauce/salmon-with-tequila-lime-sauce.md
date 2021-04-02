@@ -5,13 +5,13 @@
 - [ ] 3 jalapeños
 - [ ] 3 tbsp olive oil
 - [ ] 1 small onion, finely chopped
-- [ ] 2/3 cup fish stock
-- [ ] grated rind and juice of one lime
-- [ ] 1/2 cp light cream
+- [ ] 1 to 1 1/2 cup chicken stock
+- [ ] grated rind and juice of two limes
+- [ ] 1 cup heavy cream
 - [ ] 2 tbsp reposada tequila
 - [ ] 1 firm avocado
 - [ ] 4 salmon fillets
-- [ ] parsley, for garnish
+- [ ] parsley or cilantro, for garnish
 
 ## Instructions
 
