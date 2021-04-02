@@ -7,5 +7,4 @@ Collection of favorite cooking recipes
 * [Bacon](bacon/bacon.md)
 * [Fried Rice](fried-rice/fried-rice.md)
 * [Musubi](musubi/musubi.md)
-* [Musubi](musubi/musubi.md)
 * [Salmon with Tequila Lime Sauce](salmon-with-tequila-lime-sauce/salmon-with-tequila-lime-sauce.md)
