@@ -8,3 +8,4 @@ Collection of favorite cooking recipes
 * [Fried Rice](fried-rice/fried-rice.md)
 * [Musubi](musubi/musubi.md)
 * [Salmon with Tequila Lime Sauce](salmon-with-tequila-lime-sauce/salmon-with-tequila-lime-sauce.md)
+* [Biltong](biltong/biltong.md)
