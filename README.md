@@ -1,11 +1,16 @@
 # cooking-recipes
 Collection of favorite cooking recipes
 
-* [Instant Pot Chicken Korma](instant-pot-chicken-korma/instant-pot-chicken-korma.md)
-* [Oven-baked Wings](oven-baked-wings/oven-baked-wings.md)
-* [Panang Thai Curry](panang-thai-curry/panang-thai-curry.md)
-* [Bacon](bacon/bacon.md)
+## Dinner
 * [Fried Rice](fried-rice/fried-rice.md)
-* [Musubi](musubi/musubi.md)
 * [Salmon with Tequila Lime Sauce](salmon-with-tequila-lime-sauce/salmon-with-tequila-lime-sauce.md)
+
+## Meat
+* [Bacon](bacon/bacon.md)
+
+## Snacks
+* [Musubi](musubi/musubi.md)
 * [Biltong](biltong/biltong.md)
+
+## Condiments
+* [Gochujang Sauce](gochujang-sauce/gochujang-sauce.md)
