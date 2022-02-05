@@ -9,6 +9,9 @@ Collection of favorite cooking recipes
 ## Meat
 * [Bacon](bacon/bacon.md)
 
+## Sides
+* [Mashed Potatoes](mashed-potatoes/mashed-potatoes.md)
+
 ## Snacks
 * [Musubi](musubi/musubi.md)
 * [Biltong](biltong/biltong.md)
