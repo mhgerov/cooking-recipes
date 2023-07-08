@@ -1,30 +1,33 @@
-# MUSUBI  v1.1.0
+# MUSUBI  v2.0.0
 
 ![Recipe Photo](musubi.jpeg)
 
 ## Ingredients
 
 - [ ] 1 12 oz. can of low-sodium Spam™
-- [ ] 3 oz soy sauce
-- [ ] 2 oz sugar
-- [ ] 4 eggs
-- [ ] butter
-- [ ] 2 cp cooked sushi rice
-- [ ] 1/2 seasoned rice vinegar
+- [ ] 3 cp cooked sushi rice
 - [ ] seto fumi furikake (bonito)
 - [ ] nori
 
+### Teriyaki Sauce
+
+- [ ] 3 tbsp soy sauce
+- [ ] 4 tbsp mirin
+- [ ] 1 tbsp oyster sauce
+- [ ] 2 tsp sugar
+
+### Eggs
+- [ ] 5 eggs
+- [ ] 2 oz milk
+
+## Sesame Aioli
+- [ ] 3 tbsp mayo
+- [ ] 1 tsp sesame oil
+
 ## Instructions
-
-1. Slice Spam into 8-9 pieces
-1. Mix soy sauce & sugar in pan until dissolved.
-1. Simmer Spam 2 minutes each side.
-1. Scramble eggs or make omelette. Keep eggs as intact as possible.
-1. (optional) brown the spam on clean pan.
-1. Mix seasoning vinegar and rice.
-1. Cut nori into thirds.
+1. Fry spam
+1. Add sauce and bring to simmer
 1. Assemble
-
 
 ## Change Log
 
